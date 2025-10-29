@@ -1,0 +1,2 @@
+hola = "Hool"
+print (hola)
