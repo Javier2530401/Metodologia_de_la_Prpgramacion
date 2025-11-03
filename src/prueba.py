@@ -1,2 +1,0 @@
-hola = "Hool"
-print (hola)
